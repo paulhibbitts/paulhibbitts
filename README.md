@@ -1,4 +1,4 @@
-### Hi there 👋🏼
+### Hey there 👋🏼
 
 This is my personal GitHub account, check out my main GitHub account at https://github.com/hibbitts-design.
 
