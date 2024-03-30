@@ -4,7 +4,7 @@ This is my personal GitHub account, check out my main GitHub account at https://
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=paulhibbitts)](https://git.io/streak-stats)
 
-[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulhibbitts)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulhibbitts)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **paulhibbitts/paulhibbitts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
