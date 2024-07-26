@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
+
 ![A_bird's_eye_view_of_a_bright,_cartoony_chalk-draw](https://github.com/user-attachments/assets/25705959-b79e-494e-8324-628d87f1fe89)
 
--->
