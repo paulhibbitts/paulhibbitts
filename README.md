@@ -1,4 +1,5 @@
-![A_bird's_eye_view_of_a_bright,_cartoony_chalk-draw](https://github.com/user-attachments/assets/25705959-b79e-494e-8324-628d87f1fe89)
+
+![layout-3](https://github.com/user-attachments/assets/9be9af67-ac7a-4365-b3b9-86a904206d5b)
 
 ### Hey there 👋🏼
 
@@ -23,4 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![A_bird's_eye_view_of_a_bright,_cartoony_chalk-draw](https://github.com/user-attachments/assets/25705959-b79e-494e-8324-628d87f1fe89)
+
 -->
