@@ -1,3 +1,5 @@
+![A_bird's_eye_view_of_a_bright,_cartoony_chalk-draw](https://github.com/user-attachments/assets/25705959-b79e-494e-8324-628d87f1fe89)
+
 ### Hey there 👋🏼
 
 This is my personal GitHub account, check out my main GitHub account at https://github.com/hibbitts-design for the official releases of my projects.
