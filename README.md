@@ -1,8 +1,8 @@
+![354671669-4f695438-1988-4046-a338-ebd68f164da5](https://github.com/user-attachments/assets/53cc9df7-f866-4993-805d-dfcc08671f19)
 
-![layout-5c](https://github.com/user-attachments/assets/4f695438-1988-4046-a338-ebd68f164da5)
+**OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS**
 
-
-
+---
 
 ### Hey there 👋🏼
 
