@@ -2,8 +2,6 @@
 
 <h1>OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS</h1>
 
----
-
 ### Hey there 👋🏼
 
 This is my personal GitHub account, check out my main GitHub account at https://github.com/hibbitts-design for the official releases of my projects.
