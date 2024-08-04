@@ -1,4 +1,4 @@
-![354671669-4f695438-1988-4046-a338-ebd68f164da5](https://github.com/user-attachments/assets/53cc9df7-f866-4993-805d-dfcc08671f19)
+![354671669-4f695438-1988-4046-a338-ebd68f164da5](https://github.com/user-attachments/assets/6885fe35-a61b-40cb-ab9c-322ab70536d2)
 
 <h1>OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS</h1>
 
