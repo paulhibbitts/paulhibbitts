@@ -1,4 +1,4 @@
-![354671669-4f695438-1988-4046-a338-ebd68f164da5](https://github.com/user-attachments/assets/f76d0c40-ce52-4479-83d3-b1fbea823853)
+<img width="380" alt="2024-08-04_12-38-15" src="https://github.com/user-attachments/assets/d6c1cf06-84cd-4e47-acb4-65021a9db6a7">
 
 <h1>OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS</h1>
 
