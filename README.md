@@ -1,4 +1,4 @@
-<img width="380" alt="2024-08-04_12-38-15" src="https://github.com/user-attachments/assets/d6c1cf06-84cd-4e47-acb4-65021a9db6a7">
+![layout-7](https://github.com/user-attachments/assets/44f28696-7611-45ba-a372-2c9dbc0e2841)
 
 <h1>OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS</h1>
 
