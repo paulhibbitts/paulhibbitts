@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 -->
 
+![layout-7-outline](https://github.com/user-attachments/assets/6ec227eb-a120-4e0e-b309-350f7d48c19a)
+
 ![A_bird's_eye_view_of_a_bright,_cartoony_chalk-draw](https://github.com/user-attachments/assets/25705959-b79e-494e-8324-628d87f1fe89)
 
 ![layout-3](https://github.com/user-attachments/assets/9be9af67-ac7a-4365-b3b9-86a904206d5b)
