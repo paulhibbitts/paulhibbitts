@@ -1,8 +1,8 @@
-![layout-7](https://github.com/user-attachments/assets/340c39e9-6cb1-4831-a9f4-d7657f928c5b)
+![layout-8d](https://github.com/user-attachments/assets/de13f7fb-71e4-4435-9c24-63a15b5f8701)
 
 <h1>OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS</h1>
 
-![layout-8d](https://github.com/user-attachments/assets/de13f7fb-71e4-4435-9c24-63a15b5f8701)
+![layout-7](https://github.com/user-attachments/assets/340c39e9-6cb1-4831-a9f4-d7657f928c5b)
 
 <h1>OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS</h1>
 
