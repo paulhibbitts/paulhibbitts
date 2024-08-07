@@ -2,6 +2,10 @@
 
 <h1>OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS</h1>
 
+![layout-8d](https://github.com/user-attachments/assets/de13f7fb-71e4-4435-9c24-63a15b5f8701)
+
+<h1>OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS</h1>
+
 ### Hey there 👋🏼
 
 This is my personal GitHub account, check out my main GitHub account at https://github.com/hibbitts-design for the official releases of my projects.
