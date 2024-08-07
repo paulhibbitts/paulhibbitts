@@ -2,10 +2,6 @@
 
 <h1>OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS</h1>
 
-![layout-7](https://github.com/user-attachments/assets/340c39e9-6cb1-4831-a9f4-d7657f928c5b)
-
-<h1>OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS</h1>
-
 ### Hey there 👋🏼
 
 This is my personal GitHub account, check out my main GitHub account at https://github.com/hibbitts-design for the official releases of my projects.
@@ -31,6 +27,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
+![layout-7](https://github.com/user-attachments/assets/340c39e9-6cb1-4831-a9f4-d7657f928c5b)
+
+<h1>OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS</h1>
 
 ![layout-7-outline](https://github.com/user-attachments/assets/6ec227eb-a120-4e0e-b309-350f7d48c19a)
 
