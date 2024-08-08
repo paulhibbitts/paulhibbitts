@@ -1,4 +1,4 @@
-![layout-8e](https://github.com/user-attachments/assets/d8b93905-ec66-4d3f-9128-974fdfe33ea8)
+![layout-9](https://github.com/user-attachments/assets/97f2d249-e519-40d1-831f-c9ad81969ddc)
 
 <h1>OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS</h1>
 
