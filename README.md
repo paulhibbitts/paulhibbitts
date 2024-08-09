@@ -2,8 +2,6 @@
 
 This is my personal GitHub account, check out my main GitHub account at https://github.com/hibbitts-design for the official releases of my projects.
 
-![Screenshot 2024-08-07 at 12-13-49 83ff67fb-317a-45f0-80e5-a0b0530976c8 webp (WEBP Image 1792 × 1024 pixels)](https://github.com/user-attachments/assets/c7a6bc9d-0701-40fb-a06e-757810797445)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulhibbitts)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=paulhibbitts)](https://git.io/streak-stats)
